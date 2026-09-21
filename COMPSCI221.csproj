@@ -9,6 +9,11 @@
 
   <ItemGroup>
     <Compile Remove="01 Fundamentals.cs" />
+    <Compile Remove="02 ObjectOrientedProgramming.cs" />
+    <Compile Remove="Flight.cs" />
+    <Compile Remove="LE1.cs" />
+    <Compile Remove="LE2.cs" />
+    <Compile Remove="Person.cs" />
   </ItemGroup>
 
 </Project>
