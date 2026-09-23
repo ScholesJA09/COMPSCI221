@@ -13,7 +13,10 @@
     <Compile Remove="Flight.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />
+    <Compile Remove="Movie.cs" />
+    <Compile Remove="PA1.cs" />
     <Compile Remove="Person.cs" />
+    <Compile Remove="Theater.cs" />
   </ItemGroup>
 
 </Project>
