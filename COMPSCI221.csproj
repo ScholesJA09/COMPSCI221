@@ -12,6 +12,9 @@
     <Compile Remove="02 ObjectOrientedProgramming.cs" />
     <Compile Remove="03 Arrays.cs" />
     <Compile Remove="04 Semantics.cs" />
+    <Compile Remove="05 File IO.cs" />
+    <Compile Remove="06 CSV Files.cs" />
+    <Compile Remove="Album.cs" />
     <Compile Remove="Flight.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />

@@ -17,7 +17,7 @@
 
             try
             {
-                using StreamWriter writer = new StreamWriter(path);
+                using StreamWriter writer = new StreamWriter(path); //Writing to file
                 writer.WriteLine("Hello world!");
                 //Using = Disposes whatever you have when clearing (automatically closes)
             }
@@ -29,12 +29,33 @@
 
         static void FileReadingDemo()
         {
+            string path = "test.txt"; //Will create file if not already exists
 
+            if (!File.Exists(path))
+            {
+                Console.WriteLine("File doesn't exist.");
+                return;
+            }
+
+            try
+            {
+                using StreamReader reader = new StreamReader(path); //Reading File
+
+                while (!reader.EndOfStream) //Reads until end of file
+                {
+                    string line = reader.ReadLine();
+                    Console.WriteLine(line);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error while reading file.");
+            }
         }
 
         static void Main()
         {
-            FileWritingDemo();
-        }
+            //FileWritingDemo();
+            FileReadingDemo();        }
     }
 }
