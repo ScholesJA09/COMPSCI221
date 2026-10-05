@@ -19,7 +19,9 @@
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
+    <Compile Remove="LE4.cs" />
     <Compile Remove="Movie.cs" />
+    <Compile Remove="Movie2.cs" />
     <Compile Remove="PA1.cs" />
     <Compile Remove="Person.cs" />
     <Compile Remove="Theater.cs" />
