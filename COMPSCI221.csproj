@@ -14,13 +14,19 @@
     <Compile Remove="04 Semantics.cs" />
     <Compile Remove="05 File IO.cs" />
     <Compile Remove="06 CSV Files.cs" />
+    <Compile Remove="07 Algorithms.cs" />
     <Compile Remove="Album.cs" />
+    <Compile Remove="Animal.cs" />
+    <Compile Remove="Dog.cs" />
     <Compile Remove="Flight.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
+    <Compile Remove="LE4.cs" />
     <Compile Remove="Movie.cs" />
+    <Compile Remove="Movie2.cs" />
     <Compile Remove="PA1.cs" />
+    <Compile Remove="PA2.cs" />
     <Compile Remove="Person.cs" />
     <Compile Remove="Theater.cs" />
   </ItemGroup>
