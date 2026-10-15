@@ -15,8 +15,15 @@
     <Compile Remove="05 File IO.cs" />
     <Compile Remove="06 CSV Files.cs" />
     <Compile Remove="07 Algorithms.cs" />
+    <Compile Remove="08 Inheritance.cs" />
     <Compile Remove="Album.cs" />
+    <Compile Remove="Animal.cs" />
+    <Compile Remove="Bird.cs" />
+    <Compile Remove="Cat.cs" />
+    <Compile Remove="Dog.cs" />
     <Compile Remove="Flight.cs" />
+    <Compile Remove="IEggLayer.cs" />
+    <Compile Remove="IFlying.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
