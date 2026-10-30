@@ -20,15 +20,20 @@
     <Compile Remove="Animal.cs" />
     <Compile Remove="Bird.cs" />
     <Compile Remove="Cat.cs" />
+    <Compile Remove="Computer.cs" />
+    <Compile Remove="Desktop.cs" />
     <Compile Remove="Dog.cs" />
     <Compile Remove="Flight.cs" />
     <Compile Remove="IEggLayer.cs" />
     <Compile Remove="IFlying.cs" />
+    <Compile Remove="Item.cs" />
+    <Compile Remove="Laptop.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
     <Compile Remove="LE4.cs" />
     <Compile Remove="LE5.cs" />
+    <Compile Remove="LE6.cs" />
     <Compile Remove="Movie.cs" />
     <Compile Remove="Movie2.cs" />
     <Compile Remove="PA1.cs" />
@@ -36,6 +41,7 @@
     <Compile Remove="PA3.cs" />
     <Compile Remove="Person.cs" />
     <Compile Remove="pokemon.cs" />
+    <Compile Remove="Television.cs" />
     <Compile Remove="Theater.cs" />
   </ItemGroup>
 
