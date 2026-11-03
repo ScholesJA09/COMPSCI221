@@ -9,14 +9,16 @@
             Console.WriteLine("Tweet!");
         }
 
-        public void LayEgg() //Interface
-        {
-            Console.WriteLine($"{name} layed an egg.");
-        }
+        //Other methods can be deleted since they derive from IEggLayer and IFlying
 
-        public void Fly() //Interface
-        {
-            Console.WriteLine($"{name} is flying.");
-        }
+        //public void LayEgg() //Interface
+        //{
+        //    Console.WriteLine($"{name} layed an egg.");
+        //}
+
+        //public void Fly() //Interface
+        //{
+        //    Console.WriteLine($"{name} is flying.");
+        //}
     }
 }

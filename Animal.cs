@@ -1,6 +1,6 @@
 ﻿namespace COMPSCI221
 {
-    abstract class Animal //Abstract - Shouldn't be instantiated
+    abstract class Animal : IAnimal //Abstract - Shouldn't be instantiated
     {
         protected string name; //Protected = subclasses can use fields
         protected int age;

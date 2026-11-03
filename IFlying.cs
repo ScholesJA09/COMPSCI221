@@ -1,7 +1,10 @@
 ﻿namespace COMPSCI221
 {
-    internal interface IFlying
+    internal interface IFlying : IAnimal
     {
-        void Fly();
+        void Fly() //Can use name because it impliments IAnimal
+        {
+            Console.WriteLine($"{Name} is flying.");
+        }
     }
 }
