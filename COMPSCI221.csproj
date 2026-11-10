@@ -28,7 +28,6 @@
     <Compile Remove="Dog.cs" />
     <Compile Remove="Flight.cs" />
     <Compile Remove="GraduateStudent.cs" />
-    <Compile Remove="IAnimal.cs" />
     <Compile Remove="ICallReceiver.cs" />
     <Compile Remove="IEggLayer.cs" />
     <Compile Remove="IEmailReceiver.cs" />
@@ -45,9 +44,13 @@
     <Compile Remove="LE5.cs" />
     <Compile Remove="LE6.cs" />
     <Compile Remove="LE8.cs" />
+    <Compile Remove="LE9.cs" />
     <Compile Remove="Month.cs" />
     <Compile Remove="Movie.cs" />
     <Compile Remove="Movie2.cs" />
+    <Compile Remove="Order.cs" />
+    <Compile Remove="OrderStatus.cs" />
+    <Compile Remove="OrderType.cs" />
     <Compile Remove="PA1.cs" />
     <Compile Remove="PA2.cs" />
     <Compile Remove="PA3.cs" />
