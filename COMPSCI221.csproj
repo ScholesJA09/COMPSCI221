@@ -18,7 +18,6 @@
     <Compile Remove="08 Inheritance.cs" />
     <Compile Remove="09 EnumsAndSwitch.cs" />
     <Compile Remove="10 Generics.cs" />
-    <Compile Remove="11 Collections.cs" />
     <Compile Remove="Album.cs" />
     <Compile Remove="Animal.cs" />
     <Compile Remove="Bird.cs" />
@@ -41,6 +40,7 @@
     <Compile Remove="ITextReceiver.cs" />
     <Compile Remove="Laptop.cs" />
     <Compile Remove="LE1.cs" />
+    <Compile Remove="LE10.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
     <Compile Remove="LE4.cs" />
@@ -64,6 +64,7 @@
     <Compile Remove="Phone.cs" />
     <Compile Remove="pokemon.cs" />
     <Compile Remove="Smartphone.cs" />
+    <Compile Remove="Stack.cs" />
     <Compile Remove="Student.cs" />
     <Compile Remove="Television.cs" />
     <Compile Remove="Theater.cs" />
