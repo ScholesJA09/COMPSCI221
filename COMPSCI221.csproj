@@ -43,6 +43,7 @@
     <Compile Remove="Laptop.cs" />
     <Compile Remove="LE1.cs" />
     <Compile Remove="LE10.cs" />
+    <Compile Remove="LE11.cs" />
     <Compile Remove="LE2.cs" />
     <Compile Remove="LE3.cs" />
     <Compile Remove="LE4.cs" />
