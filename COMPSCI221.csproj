@@ -18,6 +18,8 @@
     <Compile Remove="08 Inheritance.cs" />
     <Compile Remove="09 EnumsAndSwitch.cs" />
     <Compile Remove="10 Generics.cs" />
+    <Compile Remove="11 Collections.cs" />
+    <Compile Remove="12 Delegates.cs" />
     <Compile Remove="Album.cs" />
     <Compile Remove="Animal.cs" />
     <Compile Remove="Bird.cs" />
