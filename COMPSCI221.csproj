@@ -61,6 +61,7 @@
     <Compile Remove="PA2.cs" />
     <Compile Remove="PA3.cs" />
     <Compile Remove="PA4.cs" />
+    <Compile Remove="PA5.cs" />
     <Compile Remove="Pager.cs" />
     <Compile Remove="Person.cs" />
     <Compile Remove="Person2.cs" />
